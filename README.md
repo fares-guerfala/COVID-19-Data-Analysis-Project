@@ -1,28 +1,31 @@
 # COVID-19-Data-Analysis-Project
-Goal
+
+## Goal
 The goal of this project is to perform an analysis of COVID-19 data for the United States in 2020. We aim to provide insights into the spread of the virus, testing, positive cases, and deaths by state. The project includes interactive visualizations to help users explore the data more effectively.
 
-Table of Contents
-Getting Started
-Usage
-Data
-Features
-Visualization
-Interpretation of Results
-Contributing
-License
-Getting Started
-Prerequisites
-Before running the project, make sure you have the following software installed:
+## Table of Contents
+1. Getting Started
+2. Usage
+3. Data
+4. Features
+5. Visualization
+6. Interpretation of Results
+7. License
 
+
+### Getting Started
+#### Prerequisites
 Python 3.x
 Dash
 Plotly
 Pandas
 Flask
-Other dependencies as listed in requirements.txt
-Installation
+
+#### Installation
 Clone this repository to your local machine:
+```
+  git clone https://github.com/your-username/covid19-data-analysis.git
+```
 
 bash
 Copy code
