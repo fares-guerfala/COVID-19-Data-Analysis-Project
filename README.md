@@ -59,6 +59,14 @@ The project utilizes COVID-19 data for 2020. The data source is in the project f
 ### Visualization
 1. The "Positive and Total Cases by State" chart visualizes the total tests and positive tests by state. It helps users compare testing and positive cases across different states.
 
+
+![image](https://github.com/fares-guerfala/COVID-19-Data-Analysis-Project/assets/57867070/24fa8a85-5a08-45aa-b463-641505674a1f)
+
+
+
+
+
+
 2. The "Map of Total Cases by State" provides a geographical view of total cases by state. The color scale represents the number of total tests, with darker shades indicating higher numbers.
 
 3. The "COVID-19 Deaths by State Over Time" chart displays the trend of COVID-19 deaths for selected states over time. It helps users understand how the number of deaths has evolved.
