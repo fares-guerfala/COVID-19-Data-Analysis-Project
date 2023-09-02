@@ -59,17 +59,17 @@ The project utilizes COVID-19 data for 2020. The data source is in the project f
 ### Visualization
 1. The "Positive and Total Cases by State" chart visualizes the total tests and positive tests by state. It helps users compare testing and positive cases across different states.
 
-
-![image](https://github.com/fares-guerfala/COVID-19-Data-Analysis-Project/assets/57867070/24fa8a85-5a08-45aa-b463-641505674a1f)
-
-
-
-
-
+![Screenshot 2023-09-02 131747](https://github.com/fares-guerfala/COVID-19-Data-Analysis-Project/assets/57867070/2a10fa1f-651e-46e1-bdb1-51f7eeb60d15)
 
 2. The "Map of Total Cases by State" provides a geographical view of total cases by state. The color scale represents the number of total tests, with darker shades indicating higher numbers.
 
+![Screenshot 2023-09-02 131847](https://github.com/fares-guerfala/COVID-19-Data-Analysis-Project/assets/57867070/c6c19d52-570b-4406-b602-386102988466)
+
+
 3. The "COVID-19 Deaths by State Over Time" chart displays the trend of COVID-19 deaths for selected states over time. It helps users understand how the number of deaths has evolved.
+
+
+![Screenshot 2023-09-02 132037](https://github.com/fares-guerfala/COVID-19-Data-Analysis-Project/assets/57867070/592d957e-c143-4eff-b9bd-e1d85b881ed3)
 
 ### Interpretation of Results
 - The analysis of testing and positive cases by state helps identify regions with higher testing rates and positivity rates. This information can be valuable for resource allocation and policy decisions.
